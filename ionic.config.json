@@ -1,0 +1,7 @@
+{
+  "name": "roloapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
